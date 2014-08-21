@@ -7,4 +7,4 @@ which is appropriately transformed by the parent chart.
 
 ## Usage
 
-* [d3.chart.grid API documentation](http://peteb4ker.github.io/d3.chart/doc/classes/d3.chart.Grid.html)
+* [d3.chart.text API documentation](http://peteb4ker.github.io/d3.chart/doc/classes/d3.chart.Text.html)
